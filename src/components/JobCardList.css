@@ -1,0 +1,7 @@
+/* JobCardList.css */
+.job-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust the card width as needed */
+    gap: 20px; /* Adjust the gap between cards as needed */
+  }
+  

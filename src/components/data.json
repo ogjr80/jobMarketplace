@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "jobTitle": "Software Engineer",
+    "profilePicture": "https://via.placeholder.com/150",
+    "summary": "Experienced software engineer with expertise in web development and JavaScript frameworks.",
+    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of Example",
+        "year": "2015"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Software Engineer",
+        "company": "Tech Company Inc.",
+        "duration": "2017 - Present"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Project X",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "jobTitle": "Frontend Developer",
+    "profilePicture": "https://via.placeholder.com/150",
+    "summary": "Passionate frontend developer with experience in React and Vue.js.",
+    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Information Technology",
+        "institution": "Example University",
+        "year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Frontend Developer",
+        "company": "Web Solutions Ltd.",
+        "duration": "2017 - Present"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Project Z",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      }
+    ]
+  }, 
+  {
+    "id": 3,
+    "name": "Jane Smith",
+    "jobTitle": "Frontend Developer",
+    "profilePicture": "https://via.placeholder.com/150",
+    "summary": "Passionate frontend developer with experience in React and Vue.js.",
+    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Information Technology",
+        "institution": "Example University",
+        "year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Frontend Developer",
+        "company": "Web Solutions Ltd.",
+        "duration": "2017 - Present"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Project Z",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      }
+    ]
+  }, 
+  {
+    "id": 4,
+    "name": "Jane Smith",
+    "jobTitle": "Frontend Developer",
+    "profilePicture": "https://via.placeholder.com/150",
+    "summary": "Passionate frontend developer with experience in React and Vue.js.",
+    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Information Technology",
+        "institution": "Example University",
+        "year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Frontend Developer",
+        "company": "Web Solutions Ltd.",
+        "duration": "2017 - Present"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Project Z",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      }
+    ]
+  }
+]
